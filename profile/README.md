@@ -30,7 +30,7 @@ SkorionOS 组织是一个专注于游戏体验优化的开源组织，致力于�
 
 ### 🏆 核心项目
 
-#### 🎯 [SkorionOS](https://github.com/SkorionOS/skorionos) - SteamOS 的游戏操作系统
+#### 🎯 [SkorionOS](https://github.com/SkorionOS/skorionos) - 类 SteamOS 的游戏操作系统
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
