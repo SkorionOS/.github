@@ -30,96 +30,58 @@ SkorionOS 组织是一个专注于游戏体验优化的开源组织，致力于�
 
 ### 🏆 核心项目
 
-<table>
-<tr>
-<td>
-
-#### 🎯 [SkorionOS](https://github.com/SkorionOS/skorionos)
-**类 SteamOS 的游戏操作系统**
+#### 🎯 [SkorionOS](https://github.com/SkorionOS/skorionos) - SteamOS 的游戏操作系统
+![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 - 🎮 专为大屏幕游戏设计
 - 🚀 基于 ChimeraOS 优化
 - 💡 简单易用的游戏界面
 
+#### 💿 [Install Media](https://github.com/SkorionOS/install-media) - SkorionOS 安装媒体工具
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
-![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
-</td>
-<td>
-
-#### 💿 [Install Media](https://github.com/SkorionOS/install-media)
-**SkorionOS 安装媒体工具**
+![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
 
 - 📀 简化安装流程
 - 🔧 自动化配置
 - 🛠️ 持续维护更新
 
-![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
-![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
-
-</td>
-
-<td>
-
-#### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
-**性能设置调整 Decky 插件**
+#### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl) - 性能设置调整 Decky 插件
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 
 - 🎛️ CPU/GPU 频率调节
 - 🔋 电池管理优化
 - 🌡️ 温度监控控制
 - ⚡ 功耗平衡调节
 
+#### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager) - 智能 Steam 游戏启动参数
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td>
-
-#### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager)
-**智能 Steam 游戏启动参数**
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 - 🚀 自动启动参数配置
 - 🎯 游戏特定优化设置
 - 🔧 预设配置模板管理
 - 📝 启动参数历史记录
 
+
+#### 💡 [HueSync](https://github.com/honjow/HueSync) - LED 灯光控制 Decky 插件
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
-</td>
-
-<td>
-
-#### 💡 [HueSync](https://github.com/honjow/HueSync)
-**LED 灯光控制 Decky 插件**
+![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 
 - 🌈 RGB 灯效控制
 - 🎨 自定义灯光模式
 - ⚙️ 亮度调节
 - 🔧 多设备支持
 
+#### 🚀 [Decky Natpierce](https://github.com/honjow/decky-natpierce) - 皎月连 的 Decky 插件
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
-
-</td>
-<td>
-
-#### 🚀 [Decky Natpierce](https://github.com/honjow/decky-natpierce)
-**皎月连 的 Decky 插件**
 
 - 🌙 皎月连网络穿透服务
 - 🔗 内网设备远程访问
 - 🛡️ 安全隧道建立
 - ⚡ 高速数据传输
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
-
-</td>
-</tr>
-</table>
 
 ### 🔧 支持工具
 
