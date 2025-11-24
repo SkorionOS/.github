@@ -8,6 +8,8 @@
 
 **专注于游戏优化的 Linux 发行版和工具开发**
 
+ <a href="https://www.buymeacoffee.com/honjow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 96px !important;" ></a> 
+
 [🌟 主要项目](#-主要项目) • [🤝 贡献指南](#-贡献指南) • [📞 联系我们](#-联系我们)
 
 </div>
